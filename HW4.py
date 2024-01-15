@@ -1,9 +1,3 @@
-#
-# Submitters:
-# Olena Akrytova 
-# Matan Fintz 
-#
-
 import numpy as np
 import cv2
 import sys
