@@ -1,9 +1,3 @@
-﻿#
-# Submitters:
-# Olena Akrytova 
-# Matan Fintz 
-#
-
 import cv2, numpy as np
 import random
 import sys
