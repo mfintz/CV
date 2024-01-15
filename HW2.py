@@ -1,9 +1,3 @@
-﻿#
-# Submitters:
-# Olena Akrytova 
-# Matan Fintz 
-#
-
 import scipy
 import glob
 import os
