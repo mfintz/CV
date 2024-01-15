@@ -1,7 +1,3 @@
-﻿#Submitters:
-#Olena Akrytova 
-#Matan Fintz 
-
 import numpy as np
 import copy
 import cv2
